@@ -89,8 +89,6 @@ void GP_ONE::drawSpriteInstances(const SpriteInstance* instances, uint16_t insta
 			colorY++;
 			colorX = 0;
 		}
-		colorX = 0;
-		colorY = 0;
 	}
 }
 
